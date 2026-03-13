@@ -24,7 +24,7 @@ export default function Footer() {
         <div className="grid md:grid-cols-3 gap-10 mb-10">
           {/* Brand */}
           <div>
-            <p className="font-mono-custom text-sm tracking-[0.2em] mb-3" style={{ color: 'var(--accent)' }}>&lt;VIP /&gt;</p>
+            <p className="font-mono-custom text-sm tracking-[0.2em] mb-3" style={{ color: 'var(--accent)' }}>&lt;VS /&gt;</p>
             <p className="text-sm" style={{ color: 'var(--text-muted)', lineHeight: 1.7 }}>
               MERN Stack Developer & CS Student.<br />
               Building for the web, learning every day.
