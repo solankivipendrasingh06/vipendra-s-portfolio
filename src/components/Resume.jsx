@@ -24,7 +24,7 @@ const education = [
 
 const certifications = [
   { name: 'The Complete Node.js Developer Course', issuer: 'OneRoadMap', year: '2025' },
-  { name: 'Full Stack Web Development', issuer: 'OneRoadMap', year: '2025' },
+  { name: 'MERN Stack Development', issuer: 'OneRoadMap', year: '2025' },
   { name: 'Java Programming Masterclass', issuer: 'Great Learning', year: '2024' },
 ];
 
