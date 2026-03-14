@@ -11,7 +11,7 @@ const stats = [
 const traits = [
   { icon: <Code2 size={18} />, title: 'Clean Code', desc: 'I write readable, maintainable code with clear structure and proper documentation.' },
   { icon: <Server size={18} />, title: 'Backend Focused', desc: 'Deeply passionate about server-side architecture, APIs, and database design.' },
-  { icon: <Layers size={18} />, title: 'Full Stack', desc: 'Comfortable building end-to-end applications from database to user interface.' },
+  { icon: <Layers size={18} />, title: 'MERN Stack', desc: 'Comfortable building end-to-end applications from database to user interface.' },
   { icon: <Zap size={18} />, title: 'Performance', desc: 'Always optimizing for speed, scalability, and efficient resource usage.' },
 ];
 
