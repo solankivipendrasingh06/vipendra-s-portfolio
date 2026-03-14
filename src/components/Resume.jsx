@@ -12,13 +12,13 @@ const education = [
     year: '2022 — 2023',
     degree: 'Higher Secondary Certificate',
     institution: 'Ananya Jyoti Hr. Sec. School',
-    details: 'Completed 12th with Physics, Chemistry, Mathematics and Computer Science. Score: 91.4%',
+    details: 'Completed 12th with Physics, Chemistry, Mathematics and Computer Science. Score: 77.2%',
   },
   {
     year: '2020 — 2021',
     degree: 'Senior Secondary Certificate',
     institution: 'Ananya Jyoti Hr. Sec. School',
-    details: 'Completed 10th.        Score: 91.4%',
+    details: 'Completed 10th.        Score: 82%',
   },
 ];
 
