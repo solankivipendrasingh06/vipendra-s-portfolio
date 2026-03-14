@@ -13,18 +13,18 @@ const projects = [
   },
   {
     num: '02',
-    title: 'REST API Suite',
+    title: 'CRUD App',
     description: 'A robust RESTful API built with Express.js and MongoDB. Implements full CRUD operations, middleware auth, rate limiting, and comprehensive Postman documentation.',
     stack: ['Node.js', 'Express.js', 'MongoDB', 'JWT', 'REST'],
-    github: '',
+    github: 'https://github.com/solankivipendrasingh06/express-crud-app',
   },
 
   {
     num: '03',
     title: 'Personal Portfolio v1',
     description: 'My previous portfolio website built with vanilla HTML, CSS, and JavaScript. Clean, fast, and fully responsive with custom animations.',
-    stack: ['HTML', 'CSS', 'JavaScript'],
-    github: 'https://github.com/solankivipendrasingh06/my-portfolio',
+    stack: ['ReactJS','Tailwind CSS'],
+    github: 'https://github.com/solankivipendrasingh06/vipendra-s-portfolio',
   
   },
 ];
