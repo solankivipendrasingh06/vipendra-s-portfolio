@@ -21,7 +21,7 @@ const projects = [
 
   {
     num: '03',
-    title: 'Personal Portfolio v1',
+    title: 'Personal Portfolio',
     description: 'My previous portfolio website built with ReactJS and TailWind CSS. Clean, fast, and fully responsive with custom animations.',
     stack: ['ReactJS','Tailwind CSS'],
     github: 'https://github.com/solankivipendrasingh06/vipendra-s-portfolio',
