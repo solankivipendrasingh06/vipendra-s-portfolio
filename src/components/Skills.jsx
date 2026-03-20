@@ -5,14 +5,14 @@ const skillGroups = [
     category: 'Languages',
     skills: [
       { name: 'Java', level: 80 },
-      { name: 'JavaScript', level: 70 },
+      { name: 'JavaScript', level: 60 },
     ],
   },
   {
     category: 'Frontend',
     skills: [
       { name: 'React.js', level: 85 },
-      { name: 'HTML & CSS', level: 90 },
+      { name: 'HTML & CSS', level: 70 },
       { name: 'Tailwind CSS', level: 82 },
     ],
   },
@@ -34,7 +34,7 @@ const skillGroups = [
   },
 ];
 
-const concepts = ['Data Structures', 'Algorithms', 'JWT', 'REST APIs', 'MVC Pattern', 'Bcrypt', 'Problem Solving', 'System Design'];
+const concepts = ['Data Structures', 'Algorithms', 'JWT', 'REST APIs', 'MVC Pattern', 'Bcrypt', 'Problem Solving'];
 
 function SkillBar({ name, level, visible, delay }) {
   return (
