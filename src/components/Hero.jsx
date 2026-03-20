@@ -1,7 +1,7 @@
 import { useEffect, useState, useRef } from 'react';
 import { Github, Linkedin, Mail, ArrowDown } from 'lucide-react';
 
-const roles = ['MERN Stack Developer', 'Backend Engineer', 'CS Student'];
+const roles = ['MERN Stack Developer', 'Backend Engineer', 'DSA In JAVA'];
 
 export default function Hero() {
   const [roleIdx, setRoleIdx] = useState(0);
